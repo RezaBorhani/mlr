@@ -1,0 +1,22 @@
+
+li.menu-item {
+	display: inline;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+				
+span.menu-item {
+	font-size:80%;
+	letter-spacing: 2px;
+	color:#333;
+}
+
+li.active {
+	border: 1px solid #333;
+}
+
+a.reset{
+	all: unset;
+	}			
